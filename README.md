@@ -1,4 +1,4 @@
 # Brooklyn
-Hey, I'm Brooklyn, 13y/o, c# & js developer, im an entrepreuneur and an investor too btw
+Hello, I'm Brooklyn, 14 years old entrepreneur, developer and engineer
 
 # [My projects](https://projects.brooklyn.is)
